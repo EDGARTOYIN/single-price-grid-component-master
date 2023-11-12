@@ -572,6 +572,18 @@ video {
   max-width: 78%;
 }
 
+.max-w-\[4rem\]{
+  max-width: 4rem;
+}
+
+.max-w-\[10rem\]{
+  max-width: 10rem;
+}
+
+.max-w-\[30rem\]{
+  max-width: 30rem;
+}
+
 .flex-col{
   flex-direction: column;
 }
@@ -654,6 +666,11 @@ video {
 .py-\[1\.8rem\]{
   padding-top: 1.8rem;
   padding-bottom: 1.8rem;
+}
+
+.px-10{
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
 }
 
 .pb-9{
@@ -759,6 +776,16 @@ video {
   .sm\:px-10{
     padding-left: 2.5rem;
     padding-right: 2.5rem;
+  }
+
+  .sm\:px-8{
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .sm\:py-\[2\.3rem\]{
+    padding-top: 2.3rem;
+    padding-bottom: 2.3rem;
   }
 
   .sm\:pb-9{
