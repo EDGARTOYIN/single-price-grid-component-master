@@ -58,8 +58,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [REPO](https://github.com/EDGARTOYIN/intro-component-with-signup-form-master)
-- Live Site URL: [SITE](https://edgartoyin.github.io/intro-component-with-signup-form-master/)
+- Solution URL: [REPO](https://github.com/EDGARTOYIN/single-price-grid-component-master)
+- Live Site URL: [SITE](https://edgartoyin.github.io/single-price-grid-component-master/)
 
 ## Author
 
